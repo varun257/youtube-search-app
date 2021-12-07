@@ -1,0 +1,9 @@
+.input {
+  margin: auto;
+  width: 60%;
+}
+.input input {
+  padding: 14px;
+  width: 75%;
+  height: 16px;
+}
